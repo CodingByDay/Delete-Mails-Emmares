@@ -1,0 +1,7 @@
+C:\Users\emmaresmvp\source\repos\DeleteEmails\DeleteEmails\bin\Debug\DeleteEmails.exe.config
+C:\Users\emmaresmvp\source\repos\DeleteEmails\DeleteEmails\bin\Debug\DeleteEmails.exe
+C:\Users\emmaresmvp\source\repos\DeleteEmails\DeleteEmails\bin\Debug\DeleteEmails.pdb
+C:\Users\emmaresmvp\source\repos\DeleteEmails\DeleteEmails\obj\Debug\DeleteEmails.csprojAssemblyReference.cache
+C:\Users\emmaresmvp\source\repos\DeleteEmails\DeleteEmails\obj\Debug\DeleteEmails.csproj.CoreCompileInputs.cache
+C:\Users\emmaresmvp\source\repos\DeleteEmails\DeleteEmails\obj\Debug\DeleteEmails.exe
+C:\Users\emmaresmvp\source\repos\DeleteEmails\DeleteEmails\obj\Debug\DeleteEmails.pdb
